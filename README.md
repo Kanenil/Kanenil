@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kanenil/Kanenil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kanenil/Kanenil/output/snake.svg?pallete=github-dark" alt="Snake animation" />
 
 ###
 
