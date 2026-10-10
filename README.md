@@ -1,86 +1,67 @@
-<h2 align="left">Hi 👋! My name is Oleksandr Burda and I'm a Full Stack Developer, from Ukraine</h2>
+<a href="https://kanenil.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Oleksandr Burda — Full-stack developer shipping SaaS products end to end. Next.js, React, TypeScript, Node.js. Dortmund, Germany." src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
-###
+<p align="center">
+  <a href="https://kanenil.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.svg"><img alt="kanenil.com" src="assets/link-website-light.svg" height="40"></picture></a>
+  <a href="https://kanenil.com/cv/oleksandr-burda-cv.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-cv-dark.svg"><img alt="Download CV" src="assets/link-cv-light.svg" height="40"></picture></a>
+  <a href="https://www.linkedin.com/in/oleksandrburda/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img alt="LinkedIn" src="assets/link-linkedin-light.svg" height="40"></picture></a>
+  <a href="mailto:oleksandrburda2004@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img alt="Email" src="assets/link-email-light.svg" height="40"></picture></a>
+  <a href="https://t.me/oleksandrburdaa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-telegram-dark.svg"><img alt="Telegram" src="assets/link-telegram-light.svg" height="40"></picture></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kanenil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanenil&area=true&custom_title=My%20Contribution%20Activities&theme=dracula&hide_border=true&hide_title=false&radius=30" height="150" alt="activity-graph graph"  />
-</div>
+## Hi, I'm Oleksandr 👋
 
-###
+I'm a full-stack developer from Ukraine, based in Dortmund. I design architectures, build APIs and craft interfaces with **Next.js, React, TypeScript and Node.js**, then own them through deployment and production.
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/989de7ac-02ce-4f9e-a4b7-32add9d2a699"  />
+- 💼 **Full Stack Developer at MagneticOne** (remote, since May 2024): full-stack features across 3 production SaaS products
+- 🏗️ Application architecture from scratch: PostgreSQL and NoSQL data models, REST and GraphQL APIs, third-party integrations
+- ☁️ Event-driven workflows with AWS (S3, Lambda, SQS) and Cloudflare Queues, Docker and CI/CD for a monorepo
+- 🧪 Automated tests with Jest, Vitest, Playwright and Cypress, production monitoring with Sentry
+- 🌍 English (B2) · German (B1) · Ukrainian (native) · Russian (fluent)
 
-###
+## Tech stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Tech stack. Frontend: JavaScript, TypeScript, React, Next.js, React Router. Backend and APIs: Node.js, Express, NestJS, GraphQL, tRPC. Databases: PostgreSQL, MongoDB, DynamoDB. Cloud and DevOps: Docker, GitHub Actions, AWS, Azure, Cloudflare. Testing and quality: Jest, Vitest, Playwright, Cypress, Sentry." src="assets/stack-light.svg" width="100%">
+</picture>
 
-###
+## Featured projects
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/oleksandrburda/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/oleksandrburdaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-###
+### [Realtime Chat](https://github.com/Kanenil/realtime-chat)
 
-<br clear="both">
+Direct messages with attachments, emoji reactions, voice channels and live presence. A tRPC API streams updates over WebSockets and publishes them through Redis.
 
-<img src="https://raw.githubusercontent.com/Kanenil/Kanenil/output/snake.svg?pallete=github-dark" alt="Snake animation" />
+`React` `Vite` `tRPC` `Node.js` `Redis` `Prisma` `MongoDB`
 
-###
+</td>
+<td width="50%" valign="top">
 
-<!--
-**Kanenil/Kanenil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Chat
 
-Here are some ideas to get you started:
+Real-time group chat with file attachments, Google or email sign-in and a saved light / dark theme. Angular client, layered ASP.NET Core API, SignalR events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Angular` `TypeScript` `Tailwind CSS` `.NET`
+
+[Frontend](https://github.com/Kanenil/ChatWeb-Frontend) · [Backend](https://github.com/Kanenil/ChatWeb-Backend)
+
+</td>
+</tr>
+</table>
+
+## Most used languages
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Kanenil&layout=compact&langs_count=6&card_width=420&hide_title=true&hide_border=true&bg_color=0d1117&text_color=a6b4d9">
+    <img alt="Most used languages across my public repositories" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kanenil&layout=compact&langs_count=6&card_width=420&hide_title=true&hide_border=true&bg_color=ffffff&text_color=55627e" width="420">
+  </picture>
+</p>
