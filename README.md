@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <a href="https://kanenil.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.svg"><img alt="kanenil.com" src="assets/link-website-light.svg" height="40"></picture></a>
+  <a href="https://kanenil.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.svg"><img alt="Portfolio" src="assets/link-website-light.svg" height="40"></picture></a>
   <a href="https://kanenil.com/cv/oleksandr-burda-cv.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-cv-dark.svg"><img alt="Download CV" src="assets/link-cv-light.svg" height="40"></picture></a>
   <a href="https://www.linkedin.com/in/oleksandrburda/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img alt="LinkedIn" src="assets/link-linkedin-light.svg" height="40"></picture></a>
   <a href="mailto:oleksandrburda2004@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img alt="Email" src="assets/link-email-light.svg" height="40"></picture></a>
