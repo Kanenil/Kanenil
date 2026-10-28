@@ -1,7 +1,7 @@
 <a href="https://kanenil.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Oleksandr Burda — Full-stack developer shipping SaaS products end to end. Next.js, React, TypeScript, Node.js. Dortmund, Germany." src="assets/banner-light.svg" width="100%">
+    <img alt="Oleksandr Burda · Full-stack developer shipping SaaS products end to end. Next.js, React, TypeScript, Node.js. Dortmund, Germany." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
@@ -15,7 +15,7 @@
 
 ## Hi, I'm Oleksandr 👋
 
-I'm a full-stack developer from Ukraine, based in Dortmund. I design architectures, build APIs and craft interfaces with **Next.js, React, TypeScript and Node.js**, then own them through deployment and production.
+I'm a full-stack developer from Ukraine, based in Dortmund. I plan the architecture, write the APIs and build the interface with **Next.js, React, TypeScript and Node.js**. Then I keep them running in production.
 
 - 💼 **Full Stack Developer at MagneticOne** (remote, since May 2024): full-stack features across 3 production SaaS products
 - 🏗️ Application architecture from scratch: PostgreSQL and NoSQL data models, REST and GraphQL APIs, third-party integrations
